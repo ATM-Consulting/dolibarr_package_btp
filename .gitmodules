@@ -16,3 +16,6 @@
 [submodule "htdocs/workstation"]
 	path = htdocs/workstation
 	url = git@github.com:ATM-Consulting/dolibarr_module_workstation.git
+[submodule "htdocs/abricot"]
+	path = htdocs/abricot
+	url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
