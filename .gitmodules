@@ -1,21 +1,28 @@
 [submodule "htdocs/btp"]
 	path = htdocs/btp
 	url = git@github.com:ATM-Consulting/module_dolibarr_btp.git
+    branch = 1.0
 [submodule "htdocs/metre"]
 	path = htdocs/metre
-	url = git@github.com:ATM-Consulting/dolibarr_module_metre.git
+    url = git@github.com:ATM-Consulting/dolibarr_module_metre.git
+    branch = 1.0
 [submodule "htdocs/nomenclature"]
 	path = htdocs/nomenclature
-	url = git@github.com:ATM-Consulting/dolibarr_module_nomenclature.git
+    url = git@github.com:ATM-Consulting/dolibarr_module_nomenclature.git
+    branch = 2.0
 [submodule "htdocs/subtotal"]
 	path = htdocs/subtotal
-	url = git@github.com:ATM-Consulting/dolibarr_module_subtotal.git
+    url = git@github.com:ATM-Consulting/dolibarr_module_subtotal.git
+    branch = 3.0
 [submodule "htdocs/tarif"]
 	path = htdocs/tarif
-	url = git@github.com:ATM-Consulting/module_dolibarr_tarif.git
+    url = git@github.com:ATM-Consulting/module_dolibarr_tarif.git
+    branch = 2.0
 [submodule "htdocs/workstation"]
 	path = htdocs/workstation
-	url = git@github.com:ATM-Consulting/dolibarr_module_workstation.git
+    url = git@github.com:ATM-Consulting/dolibarr_module_workstation.git
+    branch = 1.0
 [submodule "htdocs/abricot"]
 	path = htdocs/abricot
-	url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
+    url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
+    branch = master
