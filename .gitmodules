@@ -1,7 +1,7 @@
 [submodule "htdocs/btp"]
 	path = htdocs/btp
 	url = git@github.com:ATM-Consulting/module_dolibarr_btp.git
-    branch = 1.0
+    branch = 1.1
 [submodule "htdocs/metre"]
 	path = htdocs/metre
     url = git@github.com:ATM-Consulting/dolibarr_module_metre.git
@@ -13,15 +13,15 @@
 [submodule "htdocs/subtotal"]
 	path = htdocs/subtotal
     url = git@github.com:ATM-Consulting/dolibarr_module_subtotal.git
-    branch = 3.0
+    branch = 3.6
 [submodule "htdocs/tarif"]
 	path = htdocs/tarif
     url = git@github.com:ATM-Consulting/module_dolibarr_tarif.git
-    branch = 2.0
+    branch = 3.0
 [submodule "htdocs/workstation"]
 	path = htdocs/workstation
     url = git@github.com:ATM-Consulting/dolibarr_module_workstation.git
-    branch = 1.0
+    branch = 1.3
 [submodule "htdocs/abricot"]
 	path = htdocs/abricot
     url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
