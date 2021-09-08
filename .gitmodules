@@ -9,7 +9,7 @@
 [submodule "htdocs/nomenclature"]
 	path = htdocs/nomenclature
     url = git@github.com:ATM-Consulting/dolibarr_module_nomenclature.git
-    branch = 2.0
+    branch = 4.0
 [submodule "htdocs/subtotal"]
 	path = htdocs/subtotal
     url = git@github.com:ATM-Consulting/dolibarr_module_subtotal.git
@@ -19,10 +19,10 @@
     url = git@github.com:ATM-Consulting/module_dolibarr_tarif.git
     branch = 3.0
 [submodule "htdocs/workstation"]
-	path = htdocs/workstation
+	path = htdocs/workstationatm
     url = git@github.com:ATM-Consulting/dolibarr_module_workstation.git
-    branch = 1.3
+    branch = 2.0
 [submodule "htdocs/abricot"]
 	path = htdocs/abricot
     url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
-    branch = master
+    branch = 3.2
