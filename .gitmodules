@@ -14,10 +14,6 @@
 	path = htdocs/subtotal
     url = git@github.com:ATM-Consulting/dolibarr_module_subtotal.git
     branch = 3.6
-[submodule "htdocs/workstation"]
-	path = htdocs/workstationatm
-    url = git@github.com:ATM-Consulting/dolibarr_module_workstation.git
-    branch = 2.0
 [submodule "htdocs/abricot"]
 	path = htdocs/abricot
     url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
