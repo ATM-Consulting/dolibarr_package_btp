@@ -2,10 +2,6 @@
 	path = htdocs/btp
 	url = git@github.com:ATM-Consulting/module_dolibarr_btp.git
     branch = 1.1
-[submodule "htdocs/metre"]
-	path = htdocs/metre
-    url = git@github.com:ATM-Consulting/dolibarr_module_metre.git
-    branch = 1.0
 [submodule "htdocs/nomenclature"]
 	path = htdocs/nomenclature
     url = git@github.com:ATM-Consulting/dolibarr_module_nomenclature.git
