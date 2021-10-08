@@ -14,10 +14,6 @@
 	path = htdocs/subtotal
     url = git@github.com:ATM-Consulting/dolibarr_module_subtotal.git
     branch = 3.6
-[submodule "htdocs/tarif"]
-	path = htdocs/tarif
-    url = git@github.com:ATM-Consulting/module_dolibarr_tarif.git
-    branch = 3.0
 [submodule "htdocs/workstation"]
 	path = htdocs/workstation
     url = git@github.com:ATM-Consulting/dolibarr_module_workstation.git
