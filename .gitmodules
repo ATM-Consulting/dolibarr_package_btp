@@ -18,3 +18,6 @@
 	path = htdocs/discountrules
 	url = git@github.com:ATM-Consulting/dolibarr_module_discountrules.git
     branch = 2.11
+[submodule "htdocs/doc2project"]
+	path = htdocs/doc2project
+	url = git@g
