@@ -9,7 +9,7 @@
 [submodule "htdocs/subtotal"]
 	path = htdocs/subtotal
     url = git@github.com:ATM-Consulting/dolibarr_module_subtotal.git
-    branch = 3.15
+    branch = 3.16
 [submodule "htdocs/abricot"]
 	path = htdocs/abricot
     url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
