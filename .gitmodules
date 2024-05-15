@@ -5,11 +5,11 @@
 [submodule "htdocs/nomenclature"]
 	path = htdocs/nomenclature
     url = git@github.com:ATM-Consulting/dolibarr_module_nomenclature.git
-    branch = 4.10
+    branch = 4.11
 [submodule "htdocs/subtotal"]
 	path = htdocs/subtotal
     url = git@github.com:ATM-Consulting/dolibarr_module_subtotal.git
-    branch = 3.23
+    branch = 3.24
 [submodule "htdocs/abricot"]
 	path = htdocs/abricot
     url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
